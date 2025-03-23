@@ -1,0 +1,1 @@
+{"version":1,"defects":{"ApiTest::testGetUserDetails":7,"ApiTest::testCreateUserInvalidData":8,"ApiTest::testGetMessages":8},"times":{"ApiTest::testThatTwoStringsAreTheSame":0.003,"ApiTest::testGetUserDetails":0.051,"ApiTest::testCreateUserInvalidData":0.049,"ApiTest::testPostMessage":0.048,"ApiTest::testGetMessages":0.04}}
